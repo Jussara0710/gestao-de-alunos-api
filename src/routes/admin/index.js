@@ -2,7 +2,7 @@ import { Router } from 'express';
 import alunosRoutes from './alunos.routes.js';
 import disciplinasRoutes from './disciplinas.routes.js';
 import notasRoutes from './notas.routes.js';
-import trabalhosRoutes from './trabalhos.routes.js';
+import trabalhosRoutes from './trabalho.routes.js';
 import authenticate from '../../middlewares/authenticate.js';
 import authorize from '../../middlewares/authorize.js';
 

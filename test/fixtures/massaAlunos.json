@@ -1,0 +1,13 @@
+{
+  "novoAluno": {
+    "nome": "Aluno Teste DDT",
+    "email": "aluno.ddt@email.com",
+    "matricula": "2026001",
+    "senha": "senha123usuario"
+  },
+  "entregaTrabalho": {
+    "disciplinaId": 1,
+    "titulo": "Trabalho de Automação de QA",
+    "link": "https://github.com/massa/trabalho-qa"
+  }
+}
