@@ -1,5 +1,7 @@
 # Gestão de Alunos API
 
+[![Testes de API](https://github.com/Jussara0710/gestao-de-alunos-api/actions/workflows/tests.yml/badge.svg)](https://github.com/Jussara0710/gestao-de-alunos-api/actions/workflows/tests.yml)
+
 API REST para gestão de alunos, disciplinas, notas e trabalhos, com persistência em MongoDB.
 
 ## Descrição
